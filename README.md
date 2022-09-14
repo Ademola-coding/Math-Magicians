@@ -1,56 +1,44 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Math-magicians
 
-> Description the project.
+> Description
+"This is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
+
+Make simple calculations.
+Read a random math-related quote.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Major languages: javaScript
+- Frameworks : react
+- CSS
 
-## Live Demo (if available)
+<!-- ## Live Demo (if available)
 
 [Live Demo Link](https://livedemo.com)
-
+-->
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+you can have a copy of this project by cloning this repo to your local machine
+`https://github.com/Ademola-coding/Math-magicians.git`
 
+## procedure
+- open git bash
+- git mkdir math-magicians
+- cd math-magicians
+- git clone `https://github.com/Ademola-coding/Math-magicians.git`
+- code .
 
-To get a local copy up and running follow these simple example steps.
+with the steps above, you can have a copy of the project 
 
-### Prerequisites
+## Author
 
-### Setup
+👤 **Author**
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/Ademola-coding)
 
 ## 🤝 Contributing
 
@@ -61,12 +49,6 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
