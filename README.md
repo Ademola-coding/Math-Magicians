@@ -4,6 +4,7 @@
 
 > Description
 "This is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
+
 Make simple calculations.
 Read a random math-related quote.
 
@@ -73,8 +74,6 @@ with the steps above, you can have a copy of the project
 ## Author
 
 👤 **Author**
-
-
 - GitHub: [@githubhandle](https://github.com/Ademola-coding)
 
 ## 🤝 Contributing
