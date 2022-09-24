@@ -16,10 +16,10 @@ Read a random math-related quote.
 - Frameworks : react
 - CSS
 
-<!-- ## Live Demo (if available)
+## Live Demo 
 
-[Live Demo Link](https://livedemo.com)
--->
+[click to view project](https://ubiquitous-eclair-dc7a3f.netlify.app/)
+
 
 ## Getting Started
 
