@@ -8,6 +8,10 @@
 Make simple calculations.
 Read a random math-related quote.
 
+
+Make simple calculations.
+Read a random math-related quote.
+
 > Description
 
 This is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
