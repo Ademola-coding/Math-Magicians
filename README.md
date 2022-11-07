@@ -26,7 +26,8 @@ This is a web app for all fans of mathematics. It is a Single Page App (SPA) tha
 you can have a copy of this project by cloning this repo to your local machine
 `https://github.com/Ademola-coding/Math-magicians.git`
 
-## procedure
+## Procedure
+
 - open git bash
 - git mkdir math-magicians
 - cd math-magicians
