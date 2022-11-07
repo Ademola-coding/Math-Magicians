@@ -43,8 +43,6 @@ you can have a copy of this project by cloning this repo to your local machine
 
 with the steps above, you can have a copy of the project 
 
-with the steps above, you can have a copy of the project 
-
 ## Author
 
 👤 **Ademola Owoeye**
