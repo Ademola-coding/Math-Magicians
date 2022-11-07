@@ -3,24 +3,18 @@
 # Math-magicians
 
 > Description
-"This is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
-Make simple calculations.
-Read a random math-related quote.
 
-Make simple calculations.
-Read a random math-related quote.
+This is a web app for all fans of mathematics. It is a Single Page App (SPA) that allows users to Make simple calculations and Read math-related quote.
 
 ## Built With
 
 - Major languages: javaScript
 - Frameworks : react
-- CSS
 
 ## Live Demo 
 
 [click to view project](https://ubiquitous-eclair-dc7a3f.netlify.app/)
 
-
 ## Getting Started
 
 you can have a copy of this project by cloning this repo to your local machine
@@ -33,47 +27,25 @@ you can have a copy of this project by cloning this repo to your local machine
 - git clone `https://github.com/Ademola-coding/Math-magicians.git`
 - code .
 
-with the steps above, you can have a copy of the project 
+## Install
+ 
+ - `npm i`
+ 
+ ## Run
+ - `npm start`
 
-👤 **Author**
+### Prerequisites
 
-Make simple calculations.
-Read a random math-related quote.
-
-> Description
-
-This is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
-- Make simple calculations.
-- Read a random math-related quote.
-## Built With
-
-- Major languages: javaScript
-- Frameworks : react
-- CSS
-
-<!-- ## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
--->
-
-## Getting Started
-
-you can have a copy of this project by cloning this repo to your local machine
-`https://github.com/Ademola-coding/Math-magicians.git`
-
-## procedure
-- open git bash
-- git mkdir math-magicians
-- cd math-magicians
-- git clone `https://github.com/Ademola-coding/Math-magicians.git`
-- code .
+- **Web Browser**
+- Internet Service. 
+- Basic Knowledge about Git and Github.
+- VSCode.
 
 with the steps above, you can have a copy of the project 
 
-## Author
+with the steps above, you can have a copy of the project 
 
-👤 **Author**
-
+## 👤 Author
 
 - GitHub: [@githubhandle](https://github.com/Ademola-coding)
 
@@ -90,5 +62,3 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
